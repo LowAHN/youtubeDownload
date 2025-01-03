@@ -13,8 +13,7 @@ Downloading videos from YouTube can be useful for various reasons, such as watch
    ```sh
    git clone https://github.com/LowAHN/youtubeDownload.git
    cd youtubeDownload
-
-   
+   python download.py
 
 Install the required dependencies
 pip install pytubefix
