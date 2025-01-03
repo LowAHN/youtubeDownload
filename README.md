@@ -5,7 +5,7 @@ Downloading videos from YouTube can be useful for various reasons, such as watch
 ## Prerequisites
 
 - Python installed on your system
-- `pytube` library (You can install it using `pip install pytube`)
+- `pytubefix` library (You can install it using `pip install pytubefix`)
 
 ## Installation
 
