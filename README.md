@@ -14,7 +14,8 @@ WebSite --> https://endoflinux.com/downloading-youtube-videos-with-python/
 1. Clone this repository:
    ```sh
    git clone https://github.com/LowAHN/youtubeDownload.git
-   cd youtubeDownload
+   cd /you'r dir locate
+   chmod +x download.py
    python download.py
 
 Install the required dependencies
