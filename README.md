@@ -5,6 +5,7 @@ Downloading videos from YouTube can be useful for various reasons, such as watch
 WebSite --> https://endoflinux.com/downloading-youtube-videos-with-python/
 
 ## Prerequisites
+(bug fix ( package install your linux server or client )
 
 - Python installed on your system
 - `pytubefix` library (You can install it using `pip install pytubefix`)
@@ -14,6 +15,7 @@ WebSite --> https://endoflinux.com/downloading-youtube-videos-with-python/
 1. Clone this repository:
    ```sh
    git clone https://github.com/LowAHN/youtubeDownload.git
+
    cd /you'r dir locate
    chmod +x download.py
    python download.py
@@ -27,7 +29,8 @@ pip install pytubefix
 python download.py
 
 
-License
-This project is licensed under the MIT License.
+
+#License
+**This project is licensed under the MIT License.
 
 You can adjust the content as needed and add more detailed instructions if required.
